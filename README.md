@@ -57,7 +57,7 @@ We followed the **Waterfall** model:
 |-----------------|---------------------------|-------------------------------------------------------------------------|--------|
 | **Xv Yu Xuan**  | Backend Developer         | Spring Boot structure, API controller, service logic, file operation    | 33.3%  |
 | **Li Xing Han** | Frontend Developer        | Web UI design, user interaction, input validation, page styling         | 33.3%  |
-| **Zhang Wei**   | AI & Integration Engineer | Ollama configuration, prompt engineering, testing, documentation        | 33.3%  |
+| **XXXXXXXXX**   | AI & Integration Engineer | Ollama configuration, prompt engineering, testing, documentation        | 33.3%  |
 
 ### 3.3 Schedule
 - Week 1: Requirement analysis & architecture design
