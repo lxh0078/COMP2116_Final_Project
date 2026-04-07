@@ -113,5 +113,3 @@ This project uses the following open-source resources:
 All third-party libraries are properly declared and used in compliance with their open licenses.
 
 ---
-
-要不要我帮你把**所有内容压缩成一段可直接全选复制**的纯净版本？
