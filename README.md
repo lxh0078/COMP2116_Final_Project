@@ -111,8 +111,7 @@ The system has been fully developed and can run stably in a local environment:
 ---
 
 ## 4. Demo (YouTube URL)
-[`https://youtu.be/xxx`](https://youtu.be/hHWYx7PyvaU)
-
+https://youtu.be/hHWYx7PyvaU
 ---
 
 ## 5. Development & Running Environments
