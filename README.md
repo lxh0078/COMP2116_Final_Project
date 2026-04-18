@@ -72,7 +72,7 @@ The project strictly implements the **Waterfall development model**:
 |--------|------|------------------|---------|
 | **Xv Yu Xuan** | Backend Developer | Build Spring Boot project structure; implement AiController and AiService; manage file reading and writing; connect API and AI service | 33.3% |
 | **Li Xing Han** | Frontend Developer | Design and implement web UI; develop user input area and chat display; add English input restriction; ensure page layout and interaction experience | 33.3% |
-| **Wang Chen** | AI & Integration Engineer | Configure and run Ollama locally; design strict English-only prompts; conduct system testing; write README documentation and arrange project schedule | 33.3% |
+| **Leong Chi Cheng** | AI & Integration Engineer | Configure and run Ollama locally; design strict English-only prompts; conduct system testing; write README documentation and arrange project schedule | 33.3% |
 
 All members cooperate closely to ensure the project progresses in an orderly manner and meets all requirements.
 
