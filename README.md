@@ -137,21 +137,21 @@ All third-party libraries and models are used legally in accordance with their o
 
 ---
 
-##7. Full Environment, Extensions, & Dependencies 
+## 7. Full Environment, Extensions, & Dependencies 
 
-##7.1 Required Environment
+## 7.1 Required Environment
 -Java JDK 17 or higher
 -VS Code
 -Ollama 0.1.30+
 -Chrome / Edge browser
 
-##7.2 VS Code Extensions 
+## 7.2 VS Code Extensions 
 -Extension Pack for Java
 -Spring Boot Extension Pack
 -Language Support for Java(TM) by RedHat
 -Debugger for Java
 
-##7.3 Maven Dependencies (pom.xml)
+## 7.3 Maven Dependencies (pom.xml)
 -Spring Boot Starter Web
 -Spring AI
 -Spring AI Ollama
@@ -159,7 +159,7 @@ All third-party libraries and models are used legally in accordance with their o
 
 ---
 
-##8. Full Installation Steps 
+## 8. Full Installation Steps 
 -Install JDK 17+
 -Install VS Code & Java extensions
 -Install Ollama
